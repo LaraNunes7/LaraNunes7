@@ -33,7 +33,7 @@ mais eficientes para equipes de desenvolvimento de software.
 
             ja o GITHUB
 
-Claro! O GitHub oferece funções como controle de versão,
+ O GitHub oferece funções como controle de versão,
 colaboração, gerenciamento de repositórios, integração contínua, 
 publicação de páginas e conectividade com a comunidade. 
 Essas funcionalidades o tornam uma ferramenta essencial
